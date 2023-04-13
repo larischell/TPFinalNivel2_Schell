@@ -1,0 +1,54 @@
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\bin\Debug\negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\bin\Debug\negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\bin\Debug\dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\bin\Debug\dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\obj\Debug\negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\negocio\obj\Debug\negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\bin\Debug\Negocio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\bin\Debug\Dominio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\negocio\obj\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\bin\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\bin\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,72 @@
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.Properties.Resources.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.GenerateResource.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe.config
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\bin\Debug\negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CopyComplete
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe.config
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.Properties.Resources.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.GenerateResource.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CopyComplete
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\NEW\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe.config
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaArticulo.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.Properties.Resources.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.GenerateResource.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CopyComplete
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.exe
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe.config
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.exe
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\WindowsFormsApp_TP.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.AssemblyReference.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.SuggestedBindingRedirects.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaArticulo.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.Properties.Resources.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.GenerateResource.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CoreCompileInputs.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.csproj.CopyComplete
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.exe
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaMarca.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaCategoria.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaCategoria.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaMarca.resources
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmVerArticulo.resources
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmVerArticulo.resources

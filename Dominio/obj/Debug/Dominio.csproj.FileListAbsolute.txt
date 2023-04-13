@@ -1,0 +1,30 @@
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\bin\Debug\dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\bin\Debug\dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\obj\Debug\dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\PROGRAMACION_III\dominio\obj\Debug\dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.pdb
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.dll
+C:\Users\gabriel.vargas.pabon\OneDrive - Accenture\Escritorio\C#\APP-TP-REPO\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.pdb
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.dll
+C:\Users\acedo\OneDrive\Desktop\ProgramacionIII\TP_ABM\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\bin\Debug\Dominio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\dominio\obj\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\bin\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\obj\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Dominio\obj\Debug\Dominio.pdb

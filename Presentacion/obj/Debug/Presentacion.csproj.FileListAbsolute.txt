@@ -1,0 +1,57 @@
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Presentacion.exe.config
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Presentacion.exe
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Presentacion.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.dll
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Dominio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\bin\Debug\Negocio.pdb
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaArticulo.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaCategoria.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmAltaMarca.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\WindowsFormsApp_TP.frmVerArticulo.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.exe
+D:\Descargas\Programacion-III-TPWinForm-main\Programacion-III-TPWinForm-main\TPWinform_Vargas_Delgado\WindowsFormsApp_TP\obj\Debug\Presentacion.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaArticulo.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaCategoria.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaMarca.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmVerArticulo.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaArticulo.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaCategoria.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmAltaMarca.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmArticulo.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\WindowsFormsApp_TP.frmVerArticulo.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ariel Schell\source\repos\C#Nivel2\TPFinalNivel2_Schell\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
